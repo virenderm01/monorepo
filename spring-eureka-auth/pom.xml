@@ -52,7 +52,8 @@
 		<dependency>
 			<groupId>com.eureka.common</groupId>
 			<artifactId>spring-eureka-common</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<systemPath>D:\path\to\monorepo\spring-eureka-common\target\spring-eureka-common-0.0.1-SNAPSHOT.jar</systemPath>
+
 		</dependency>
 
 		<dependency>
