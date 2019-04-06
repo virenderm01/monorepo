@@ -12,4 +12,8 @@ public class SpringEurekaCommonApp {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringEurekaCommonApp.class, args);
 	}
+
+	public static void  print(){
+		System.out.println("test add");
+	}
 }
